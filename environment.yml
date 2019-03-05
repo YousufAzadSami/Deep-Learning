@@ -1,0 +1,14 @@
+name: deep
+channels:
+  - pytorch
+  - defaults
+dependencies:
+  - python=3.7
+  - pytorch
+  - torchvision
+  - scikit-image
+  - jupyter
+  - numpy
+  - matplotlib
+  - seaborn
+  - scikit-learn
